@@ -15,7 +15,8 @@ function addFeature(element, index, arr) {
     L.geoJson(
 	element,
 	{
-	    style: randomStyle
+	    style: randomStyle,
+		onEachFeature: makeClicky
 	}
     ).addTo(map);
 }
@@ -26,4 +27,10 @@ function randomStyle(){
 	"weight" : 1,
 	"opacity" : 1
     };
+}
+
+function makeClicky(feature,layer){
+	//layer.bindPopup(feature.properties.description);
+	layer.on("mouseover", function() {layer.setStyle({"weight":5}) ;});
+	layer.on("mouseout", function() {layer.setStyle({"weight":1}) ;});
 }
