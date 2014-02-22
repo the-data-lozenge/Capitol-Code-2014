@@ -2,11 +2,6 @@ body {
   padding-top: 60px;
 }
 
-.container {
-  width: auto;
-  max-width: 680px;
-}
-
 .item, .comment {
   padding: 15px 0;
   border-top: 1px solid #e8e8e8;
@@ -28,9 +23,4 @@ div.bar {
     height: 75px;	/* Gets overriden by D3-assigned height below */
     margin-right: 2px;
     background-color: teal;
-}
-
-
-.angular-leaflet-map {
-    height: 100%;
 }

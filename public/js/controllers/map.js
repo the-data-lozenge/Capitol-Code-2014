@@ -37,7 +37,7 @@ angular.module('abmitor.controllers').controller(
         center: {
           lat: 48,
           lng: -91.2,
-          zoom: 9
+          zoom: 10
         },
         layers: {
           baselayers: {
@@ -72,5 +72,7 @@ angular.module('abmitor.controllers').controller(
           }
         });
       });
+
+
     }
   ]);
