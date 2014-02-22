@@ -1,0 +1,1951 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.0863314058385,
+                    47.8114043201623,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.0906988297818,
+                    48.12239599486659,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.9022421800641,
+                    48.0309712983638,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.8238771651534,
+                    47.84433466563171,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.3879784776069,
+                    47.7722093786646,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.4472174042526,
+                    47.9403993604331,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.86125485476822,
+                    48.0771559214942,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.6443990413004,
+                    47.9264258356701,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.0432536294994,
+                    47.9312325500783,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.8018871812044,
+                    48.0637621038127,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.3992662290619,
+                    48.0757660943048,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.46226627389261,
+                    48.0648483650482,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.3833344705057,
+                    48.0410584545723,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.01944550442691,
+                    48.0654157882512,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.29393678555078,
+                    47.8006102928861,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.3207588552207,
+                    47.7907258301421,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.0564456868359,
+                    48.06421814801159,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.09441007412022,
+                    47.83209907794729,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.4695813576151,
+                    47.9365005672452,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.8369723314654,
+                    48.1202141523222,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.6244120095073,
+                    47.8457348891845,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.2091487877886,
+                    48.1478341580903,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.2260897910242,
+                    48.12130917176059,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.4915548248095,
+                    47.7734466959472,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.43540698094328,
+                    48.3041485265388,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.5062033867879,
+                    48.03401200266061,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.7809151652966,
+                    48.1063141619099,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.52786143953689,
+                    48.0333646063292,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.8410197098456,
+                    48.0633886799488,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.1092687749979,
+                    48.0644197997605,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.0625430185617,
+                    48.10798128191729,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.42661654569702,
+                    47.9932219761287,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.8323491040043,
+                    48.0311458710508,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.8322709533801,
+                    48.034604550312,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.0339545500963,
+                    48.0840835274303,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.5500451787773,
+                    47.9267342379653,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.083545249608,
+                    48.0595962669991,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.2660504124989,
+                    48.0338308828727,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.4422740311914,
+                    47.95961289646921,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.8830816571854,
+                    48.182450345533,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.8855604839487,
+                    47.8692965357567,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.898699682854,
+                    48.1448391647714,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.5570638050004,
+                    48.0490522566776,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.96645063808509,
+                    47.9973681294184,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.5265654685876,
+                    47.773226728867,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.4320122167193,
+                    47.97855230790769,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.67448898744219,
+                    47.8456492421622,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.5687528711846,
+                    48.1011824066472,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.98120270014752,
+                    48.10711797275451,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.58284341476231,
+                    47.983796724804,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.91942304665218,
+                    48.07265211449331,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boat, hik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.6909297836785,
+                    47.89876200549701,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "canoe/boatcalc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.3199692925826,
+                    47.91679783527799,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "day use motor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.3687559223048,
+                    48.0758898464786,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "day use motor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.7211710021334,
+                    47.9695937815049,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "day use motor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.8866302559436,
+                    48.1499083830702,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "day use motor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.44650329595729,
+                    47.99362220200249,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "day use motor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.70761169258509,
+                    47.8930529923845,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "day use motor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.7261465428772,
+                    47.95581096498821,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "day use motor,"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.5001602726197,
+                    47.9873309036126,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "day use motor,"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.40327211499,
+                    48.06890575402859,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "hiking"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.0690156029573,
+                    48.0469569853073,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "hiking"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.06746319584911,
+                    48.06443448507711,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "hiking"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.1147429519991,
+                    48.1364212649256,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "hiking"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.6202423907542,
+                    48.0863615759158,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "hiking"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.5470040388298,
+                    47.87485970110801,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "hiking"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.43420967486608,
+                    48.2482725005485,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "hiking"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.87928065409521,
+                    48.0841844646217,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "hiking"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.2832330054858,
+                    48.03393517282591,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "hiking"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.4982538705039,
+                    48.07791129769069,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "hiking"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.23750227813768,
+                    47.9018840105066,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "hiking"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.3141103946291,
+                    47.7976601970439,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "hiking"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.2172248573722,
+                    48.160687728064,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "hiking"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.4043719395008,
+                    47.9558530450673,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "hiking"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.8238771651534,
+                    47.84433466563171,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Baker Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.3879784776069,
+                    47.7722093786646,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bog Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.4472174042526,
+                    47.9403993604331,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bower Trout Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.86125485476822,
+                    48.0771559214942,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brant Lake (from Round Lake)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.6443990413004,
+                    47.9264258356701,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brule Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.0432536294994,
+                    47.9312325500783,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Crab Lake and Cummings"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.8018871812044,
+                    48.0637621038127,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cross Bay Lake (from Ham Lake)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.3992662290619,
+                    48.0757660943048,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Daniels Lake (from W. Bearskin)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.46226627389261,
+                    48.0648483650482,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Duncan Lake (from W. Bearskin)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.3833344705057,
+                    48.0410584545723,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "East Bearskin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.01944550442691,
+                    48.0654157882512,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "From Big Lake (Big Lake outside BWCAW)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.29393678555078,
+                    47.8006102928861,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Isabella Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.3207588552207,
+                    47.7907258301421,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Island River"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.0564456868359,
+                    48.06421814801159,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "John Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.09441007412022,
+                    47.83209907794729,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kawishiwi Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.4695813576151,
+                    47.9365005672452,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lake One"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.8369723314654,
+                    48.1202141523222,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Larch Creek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.6244120095073,
+                    47.8457348891845,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Little Gabbro Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.2091487877886,
+                    48.1478341580903,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Little Indian Sioux River (N. of Echo Trail)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.2260897910242,
+                    48.12130917176059,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Little Indian Sioux River (S. of Echo Trail)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.4915548248095,
+                    47.7734466959472,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Little Isabella River"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.43540698094328,
+                    48.3041485265388,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Little Vermilion Lake (Crane Lk.)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.5062033867879,
+                    48.03401200266061,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lizz and Swamp Lakes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.7809151652966,
+                    48.1063141619099,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Magnetic Lake (from Gunflint Lake)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.52786143953689,
+                    48.0333646063292,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Meeds Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.8410197098456,
+                    48.0633886799488,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Missing Link Lake (from Round Lk.)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.1092687749979,
+                    48.0644197997605,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Moose River (S. of Echo Trail)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.0625430185617,
+                    48.10798128191729,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Moose/Portage River (N. of Echo Trail)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.42661654569702,
+                    47.9932219761287,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Morgan Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.8323491040043,
+                    48.0311458710508,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mudro Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.8322709533801,
+                    48.034604550312,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mudro Lk. (Restricted, no camping on Horse Lk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.0339545500963,
+                    48.0840835274303,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "N.Fowl Lake (to Moose Lk.)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.5500451787773,
+                    47.9267342379653,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "North Kawishiwi River"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.083545249608,
+                    48.0595962669991,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pine Lk. (from McFarland Lk.)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.2660504124989,
+                    48.0338308828727,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pow Wow Trail"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.4422740311914,
+                    47.95961289646921,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ram Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.8830816571854,
+                    48.182450345533,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Saganaga Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.8855604839487,
+                    47.8692965357567,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sawbill Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.898699682854,
+                    48.1448391647714,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Seagull Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.5570638050004,
+                    48.0490522566776,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Skipper and Portage Lakes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.96645063808509,
+                    47.9973681294184,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Slim Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.5265654685876,
+                    47.773226728867,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Snake River"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.4320122167193,
+                    47.97855230790769,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Snowbank Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.67448898744219,
+                    47.8456492421622,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "South Kawishiwi River"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.5687528711846,
+                    48.1011824066472,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "South Lake (from Gunflint)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.98120270014752,
+                    48.10711797275451,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stuart River"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.58284341476231,
+                    47.983796724804,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wood Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.6909297836785,
+                    47.89876200549701,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Homer Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.3687559223048,
+                    48.0758898464786,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Clearwater Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.7211710021334,
+                    47.9695937815049,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fall Lake - To Newton, Pipestone Bay and beyo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.8866302559436,
+                    48.1499083830702,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Seagull Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.44650329595729,
+                    47.99362220200249,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Snowbank Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.70761169258509,
+                    47.8930529923845,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "South Farm Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.06746319584911,
+                    48.06443448507711,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Big Moose Lake Trail"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.1147429519991,
+                    48.1364212649256,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Blandin Trail"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.6202423907542,
+                    48.0863615759158,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Border Route Trail (west)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.5470040388298,
+                    47.87485970110801,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Eagle Mountain Trail"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.43420967486608,
+                    48.2482725005485,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Herriman Lake Trails"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.87928065409521,
+                    48.0841844646217,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kekekabic Trail (east)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.2832330054858,
+                    48.03393517282591,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Norway Trail"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.4982538705039,
+                    48.07791129769069,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Partridge Lake (and South Lk. Trail)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.23750227813768,
+                    47.9018840105066,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pine Lake Trail"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.3141103946291,
+                    47.7976601970439,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pow Wow Trail"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.2172248573722,
+                    48.160687728064,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sioux Hustler/Devils Cascade Trail&apos;"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.4043719395008,
+                    47.9558530450673,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Snowbank/Kekekabic Trail"
+            }
+        }
+    ]
+}
