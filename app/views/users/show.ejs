@@ -1,0 +1,125 @@
+<% layout('../layouts/default') -%>
+
+<% var name = user.name ? user.name : user.username %>
+<h1></h1>
+
+<div class="row">
+    <div class="col-sm-2">
+        <img src="http://thetransformedmale.files.wordpress.com/2011/06/bruce-wayne-armani.jpg"
+        alt="" class="img-rounded img-responsive" />
+    </div>
+    <div class="col-sm-4">
+        <blockquote>
+            <p><%= name %></p> <small><cite title="Source Title">Gotham, United Kingdom  <i class="glyphicon glyphicon-map-marker"></i></cite></small>
+        </blockquote>
+        <p> <i class="glyphicon glyphicon-envelope"></i> <%= user.email %>
+            <br
+            /> <i class="glyphicon glyphicon-globe"></i> abmitor.herokuapp.com
+    </div>
+    <div class="col-sm-6">
+            <ul class="list-group">
+             <li class="list-group-item">
+              Items created <span class="badge pull-right"><%= items.length %></span>
+            </li>
+              <li class="list-group-item">
+                Favorites <span class="badge pull-right">88</span>
+              </li>
+              <li class="list-group-item">
+                  Followers <span class="badge pull-right">15</span>
+                </li>
+
+            </ul>
+        <p>
+
+        <button class="btn btn-default" data-toggle="modal" data-target="#not-available">
+          <span class="glyphicon glyphicon-comment"></span> Message
+        </button>
+        <button class="btn btn-default" data-toggle="modal" data-target="#not-available">
+          <span class="glyphicon glyphicon-comment"></span> Favorite
+        </button>
+        <button class="btn btn-default" data-toggle="modal" data-target="#not-available">
+          <span class="glyphicon glyphicon-comment"></span> Unfollow
+        </button>
+        </p>
+    </div>
+</div>
+<hr/>
+<div class="row">
+    <div class="col-sm-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">In Progress<span class="badge pull-right"><%= inProgress.length %></span></div>
+            <div class="panel-body list-group">
+                   <% for (var i=0; i < inProgress.length; i++){ %>
+                    <% if (inProgress[i]){ %>
+
+                     <a href="/items/<%= inProgress[i].id %>/edit" class="list-group-item">
+                               <% var votes=0  %>
+                                      <% if(inProgress[i].votes && inProgress[i].votes.length > 0){ %>
+                                              <%     votes =  inProgress[i].vote_totals(inProgress[i])          %>
+                                              <% } %>
+
+                             <span class="badge pull-right"><%= votes %></span>
+
+                              <%= inProgress[i].title %></a>
+
+
+                    </a>
+                    <% } %>
+                 <% } %>
+
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">In Review<span class="badge pull-right"><%= inReview.length %></span></div>
+                <div class="panel-body list-group">
+
+                    <% for (var i=0; i < inReview.length; i++){ %>
+                        <% if (inReview[i]){ %>
+
+                         <a href="/items/<%= inReview[i].id %>/review" class="list-group-item">
+                                   <% var votes=0  %>
+                                          <% if(inReview[i].votes && inReview[i].votes.length > 0){ %>
+                                                  <%     votes =  inReview[i].vote_totals(inReview[i])          %>
+                                                  <% } %>
+
+                                  <span class="badge pull-right"><%= votes %></span>
+
+                                  <%= inReview[i].title %>
+
+
+                        </a>
+                        <% } %>
+                     <% } %>
+
+                </div>
+            </div>
+    </div>
+        <div class="col-sm-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">Review Complete<span class="badge pull-right"><%= reviewComplete.length %></span></div>
+                    <div class="panel-body list-group">
+
+                    <% for (var i=0; i < reviewComplete.length; i++){ %>
+                        <% if (reviewComplete[i]){ %>
+
+                         <a href="/items/<%= reviewComplete[i].id %>/reviewfeedback" class="list-group-item">
+                                   <% var votes=0  %>
+                                          <% if(reviewComplete[i].votes && reviewComplete[i].votes.length > 0){ %>
+                                                  <%     votes =  reviewComplete[i].vote_totals(reviewComplete[i])          %>
+                                                  <% } %>
+
+                                  <span class="badge"><%= votes %></span>
+
+                                  <%= reviewComplete[i].title %>
+
+
+                        </a>
+                        <% } %>
+                     <% } %>
+
+                    </div>
+                </div>
+        </div>
+</div>

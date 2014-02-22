@@ -1,0 +1,11 @@
+<% if (comment && comment.user){ %>
+    <div class="comment">
+       <% var name = comment.user.name ? comment.user.name : comment.user.username %>
+       <a href="/users/<%= comment.user._id %>"><%= name %></a>
+       <%= comment.body %>
+       <br />
+       <div class="muted">
+         <%= formatDate(comment.createdAt) %>
+       </div>
+    </div>
+<% } %>

@@ -1,0 +1,47 @@
+
+<% if(typeof info != 'undefined' && info.length){ %>
+    <div class="alert alert-info alert-dismissable">
+      <button type="button" data-dismiss="alert" class="close">×</button>
+      <ul>
+        <% for (var i=0; i<info.length; i++){ %>
+          <li><%= info[i] %></li>
+        <% }; %>
+      </ul>
+    </div>
+<% } %>
+
+
+<% if(typeof errors != 'undefined' && errors.length){ %>
+    <div class="alert alert-danger alert-dismissable">
+      <button type="button" data-dismiss="alert" class="close">×</button>
+      <ul>
+        <% for (var i = 0; i < errors.length; i++){ %>
+          <li><%= errors[i] %></li>
+        <% }; %>
+      </ul>
+    </div>
+<% } %>
+
+
+<% if(typeof success != 'undefined' && success.length){ %>
+    <div class="alert alert-success alert-dismissable">
+      <button type="button" data-dismiss="alert" class="close">×</button>
+      <ul>
+        <% for (var i = 0; i < success.length; i++){ %>
+          <li><%= success[i] %></li>
+        <% }; %>
+      </ul>
+    </div>
+<% } %>
+
+
+<% if(typeof warning != 'undefined' && warning.length){ %>
+    <div class="alert alert-warning alert-dismissable">
+      <button type="button" data-dismiss="alert" class="close">×</button>
+      <ul>
+        <% for (var i = 0; i < warning.length; i++){ %>
+          <li><%= warning[i] %></li>
+        <% }; %>
+      </ul>
+    </div>
+<% } %>
